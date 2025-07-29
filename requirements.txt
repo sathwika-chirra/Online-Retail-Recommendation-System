@@ -1,0 +1,5 @@
+Dependencies needed to run the project.
+pandas
+scikit-learn
+openpyxl
+Here openpyxl is required to read .xlsx files with pandas.read_excel()
